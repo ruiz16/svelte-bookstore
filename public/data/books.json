@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "El nombre del viento",
+        "author": "Patrick Rothfuss",
+        "genre": "Romance",
+        "pages": 662
+    },
+    {
+        "id": 2,
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "Ciencia Ficción",
+        "pages": 328
+    },
+    {
+        "id": 3,
+        "title": "Orgullo y prejuicio",
+        "author": "Jane Austen",
+        "genre": "Romance",
+        "pages": 432
+    }
+]
